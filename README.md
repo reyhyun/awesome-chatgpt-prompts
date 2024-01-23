@@ -28,7 +28,7 @@ Now you can access [Awesome ChatGPT Store](https://github.com/devisasari/awesome
 
 Explore a wide range of GPTs, from those optimized for specific programming languages, to models fine-tuned for creative writing, technical analysis, and more. This repository is not just a store; it's a community-driven platform where developers and enthusiasts can share, discover, and leverage the full potential of ChatGPT's versatility.
 
-Dive into the world of customized conversational AI models and enrich your projects with cutting-edge technology. Visit the Awesome ChatGPT Store now at [Awesome ChatGPT Store](https://github.com/devisasari/awesome-chatgpt-store) and start exploring the possibilities!
+Dive into the world of customized conversational AI models and enrich your projects with cutting-edge technology. Visit the Awesome ChatGPT Store now at [Awesome ChatGPT Store](https://github.com/devisasari/awesome-chatgpt-store) and start exploring the possibilities!!
 
 ---
 
